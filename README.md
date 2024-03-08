@@ -1,4 +1,4 @@
-<img align="center" alt="logo" src="https://github.com/DHANRAJCHOUDHARY245/DHANRAJCHOUDHARY244/blob/main/a.png">
+<img align="center" alt="logo" src="https://github.com/DHANRAJCHOUDHARY245/DHANRAJCHOUDHARY245/blob/main/a.png">
 <h1 align="center">Hi 👋, I'm DHANRAJ CHOUDHARY</h1>
 <h3 align="center">EXPLORING DEVOPS AND AUTOMATION WORLD</h3>
 
