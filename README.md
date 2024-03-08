@@ -1,7 +1,7 @@
 <img align="center" alt="logo" src="https://github.com/DHANRAJCHOUDHARY245/DHANRAJCHOUDHARY245/blob/main/a.png">
 <h1 align="center">Hi 👋, I'm DHANRAJ CHOUDHARY</h1>
 <h3 align="center">EXPLORING DEVOPS AND AUTOMATION WORLD</h3>
-
+<img align="center" alt="logo" src="https://github.com/DHANRAJCHOUDHARY245/DHANRAJCHOUDHARY245/blob/main/acoading.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanrajchoudhary245&label=Profile%20views&color=0e75b6&style=flat" alt="dhanrajchoudhary245" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanrajchoudhary245" alt="dhanrajchoudhary245" /></a> </p>
