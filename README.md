@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=WEB%20DEVELOPER&textBg=false)
-<img align="center" alt="logo" src="https://github.com/DHANRAJCHOUDHARY245/DHANRAJCHOUDHARY245/blob/main/a.png">
+<img align="center" alt="logo" src="https://github.com/dhanraj-chaintech/dhanraj-chaintech/blob/main/a.png">
 <h1 align="center">Hi 👋, I'm DHANRAJ CHOUDHARY</h1>
 <h3 align="center">EXPLORING DEVOPS AND AUTOMATION WORLD</h3>
-<img align="center" alt="logo" src="https://github.com/DHANRAJCHOUDHARY245/DHANRAJCHOUDHARY245/blob/main/coding.gif">
+<img align="center" alt="logo" src="https://github.com/dhanraj-chaintech/dhanraj-chaintech/blob/main/coding.gif">
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=dhanrajchoudhary245&label=Profile%20views&color=0e75b6&style=flat"
-        alt="dhanrajchoudhary245" /> </p>
+        src="https://komarev.com/ghpvc/?username=dhanraj-chaintech&label=Profile%20views&color=0e75b6&style=flat"
+        alt="dhanraj-chaintech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=dhanrajchoudhary245"
@@ -161,14 +161,14 @@
 <br />
 <div>
     <p><img style="width:100%;" align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanrajchoudhary245&show_icons=true&locale=en&layout=compact"
-            alt="dhanrajchoudhary245" /></p>
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanraj-chaintech&show_icons=true&locale=en&layout=compact"
+            alt="dhanraj-chaintech" /></p>
     <br />
     <p>&nbsp;<img style="width:100%;" align="center"
-            src="https://github-readme-stats.vercel.app/api?username=dhanrajchoudhary245&show_icons=true&locale=en"
-            alt="dhanrajchoudhary245" /></p>
+            src="https://github-readme-stats.vercel.app/api?username=dhanraj-chaintech&show_icons=true&locale=en"
+            alt="dhanraj-chaintech" /></p>
     <br />
     <p><img style="width:100%;" align="center"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajchoudhary245&"
-            alt="dhanrajchoudhary245" /></p>
+            src="https://github-readme-streak-stats.herokuapp.com/?user=dhanraj-chaintech&"
+            alt="dhanraj-chaintech" /></p>
 </div>
