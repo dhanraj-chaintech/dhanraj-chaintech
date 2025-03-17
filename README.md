@@ -16,9 +16,6 @@
 
 - 🔭 I’m currently working at **ChainTech**
 
-- 👨‍💻 All of my projects are available at
-[https://dhanrajchoudhary244.github.io/Static-service-page/](https://dhanrajchoudhary244.github.io/Static-service-page/)
-
 - 💬 Ask me about **Node,React,Micro Servises**
 
 - 📫 How to reach me **dhanraj.c@bcsnctn.onmicrosoft.com**
